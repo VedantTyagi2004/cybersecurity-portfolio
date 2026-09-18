@@ -1,0 +1,2 @@
+# Professional Statement
+I am a Computer Science graduate building my career in Cloud and Cybersecurity, with a strong interest in protecting systems, data, and digital infrastructure. I bring a foundation in programming, cloud technologies, and problem-solving, along with a commitment to continuous learning. My goal is to develop practical cybersecurity skills and use them to identify security risks, strengthen systems, and contribute to secure and reliable technology solutions.
